@@ -1,0 +1,29 @@
+{
+  "Users": [
+    {
+      "first_name": "sharvari",
+      "last_name": "Patil",
+      "password": "111",
+      "email": "sharvaripatil100@gmail.com",
+      "id": "1"
+    },
+    {
+      "first_name": "Dipali",
+      "last_name": "patil",
+      "password": "123",
+      "email": "dipali@gmail.com",
+      "password_again": "123",
+      "id": "osFBcTv"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
